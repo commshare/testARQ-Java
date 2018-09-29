@@ -1,0 +1,1 @@
+include ':app', ':arqlib', ':lib-java', ':lib-zb'
